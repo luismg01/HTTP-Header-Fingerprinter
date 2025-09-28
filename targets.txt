@@ -1,0 +1,3 @@
+https://example.com
+http://httpbin.org
+github.com
