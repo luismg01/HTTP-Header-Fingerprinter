@@ -1,0 +1,5 @@
+`.gitignore` simple:
+.venv/
+pycache/
+.pyc
+report_.json
